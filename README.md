@@ -4,6 +4,7 @@ The course provides a hands-on introduction to machine learning, covering the co
 
 
 Course Modules :
+
 Module 1: Introduction to Machine Learning
 
 Module 2: Machine Learning for Regression
