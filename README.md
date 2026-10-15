@@ -26,3 +26,28 @@ Module 9: Serverless Deep Learning
 Module 10: Kubernetes and TensorFlow Serving
 
 
+Repository Structure
+
+machine-learning-zoomcamp-homework/
+
+├── 01-intro/
+│   └── homework_1.ipynb
+├── 02-regression/
+│   └── homework_2.ipynb
+├── 03-classification/
+│   └── homework_3.ipynb
+├── 04-evaluation/
+│   └── homework_4.ipynb
+├── 05-deployment/
+│   └── homework_5.ipynb
+├── 06-trees/
+│   └── homework_6.ipynb
+├── projects/
+│   └── midterm-project/
+│       └── README.md
+├── 08-deep-learning/
+│   └── homework_8.ipynb
+├── 09-serverless/
+│   └── homework_9.ipynb
+└── 10-kubernetes/
+    └── homework_10.ipynb
