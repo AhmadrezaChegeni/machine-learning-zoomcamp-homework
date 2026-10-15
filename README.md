@@ -1,12 +1,12 @@
 
 <p align="center">
-  <img
-    src="assets/ml-banner.png"
-    alt="Machine Learning Zoomcamp — Learn, Build, Deploy"
-    width="100%"
-  />
+  <img src="assets/ml-banner.png"
+       alt="Machine Learning Zoomcamp AI Banner"
+       width="100%">
 </p>
 
+<h1 align="center">Machine Learning Zoomcamp — Homework</h1>
+    
 
 
 
