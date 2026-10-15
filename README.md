@@ -1,5 +1,5 @@
 # machine-learning-zoomcamp-homework
-This repository contains my homework assignments, practical exercises, and projects completed while studying the DataTalksClub Machine Learning Zoomcamp 2026 created by Alexey Grigorev .
+This repository contains my homework assignments, practical exercises, and projects completed while studying the [DataTalksClub Machine Learning Zoomcamp 2026 created by Alexey Grigorev](https://github.com/DataTalksClub/machine-learning-zoomcamp)
 The course provides a hands-on introduction to machine learning, covering the complete workflow from problem formulation and data preparation to model training, evaluation, deployment, and scalable model serving.
 
 
