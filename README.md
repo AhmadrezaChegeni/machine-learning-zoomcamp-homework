@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="assets/ml-banner.png"
        alt="Machine Learning Zoomcamp AI Banner"
