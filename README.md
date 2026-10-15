@@ -25,13 +25,4 @@ Module 9: Serverless Deep Learning
 
 Module 10: Kubernetes and TensorFlow Serving
 
-
-
-
-Repository Structure:
-
-01-intro/
-├── homework_1.ipynb
-└── ...
-
     
