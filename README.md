@@ -1,7 +1,4 @@
 
-The course provides a hands-on introduction to machine learning, covering the complete workflow from problem formulation and data preparation to model training, evaluation, deployment, and scalable model serving.
-
-
 # Machine Learning Zoomcamp — Homework
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)](https://www.python.org/)
