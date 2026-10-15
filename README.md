@@ -21,7 +21,7 @@ The course provides a hands-on introduction to machine learning, covering the co
 | 04 | [Evaluation Metrics for Classification](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/04-evaluation) | |
 | 05 | [Deploying Machine Learning Models](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/05-deployment) |
 | 06 | [Decision Trees and Ensemble Learning](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/06-trees) |
-| 07 | Midterm Project | [Project Directory](projects/) |
+| 07 | Midterm Project |  |
 | 08 | [Neural Networks and Deep Learning](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/08-deep-learning) | 
 | 09 | [Serverless Deep Learning](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/09-serverless) | 
 | 10 | [Kubernetes and TensorFlow Serving](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/10-kubernetes) |
