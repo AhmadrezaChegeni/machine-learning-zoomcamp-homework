@@ -1,4 +1,18 @@
 
+<p align="center">
+  <img
+    src="assets/ml-banner.png"
+    alt="Machine Learning Zoomcamp — Learn, Build, Deploy"
+    width="100%"
+  />
+</p>
+
+
+
+
+
+
+
 # Machine Learning Zoomcamp — Homework
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)](https://www.python.org/)
