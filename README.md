@@ -1,5 +1,5 @@
 
-# Machine Learning Zoomcamp — Homework
+# Machine Learning Zoomcamp
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)](https://jupyter.org/)
