@@ -18,7 +18,7 @@ The course provides a hands-on introduction to machine learning, covering the co
 | 01 | [Introduction to Machine Learning](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/01-intro) | [Homework 1](01-intro/homework_1.ipynb) |
 | 02 | [Machine Learning for Regression](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/02-regression) | [Homework 2](02-regression/homework_2.ipynb) |
 | 03 | [Machine Learning for Classification](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/03-classification) | [Homework 3](03-classification/homework_3.ipynb) |
-| 04 | [Evaluation Metrics for Classification](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/04-evaluation) | | [Homework 4](04-evaluation_metrics_for_classification/homework_4.ipynb) |
+| 04 | [Evaluation Metrics for Classification](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/04-evaluation) | [Homework 4](04-evaluation_metrics_for_classification/homework_4.ipynb) |
 | 05 | [Deploying Machine Learning Models](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/05-deployment) |
 | 06 | [Decision Trees and Ensemble Learning](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/06-trees) |
 | 07 | Midterm Project |  |
