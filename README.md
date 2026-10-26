@@ -14,7 +14,7 @@ The course provides a hands-on introduction to machine learning, covering the co
 ## Course Curriculum
 
 | Module | Topic | Assignment | Problems |
-|---|---|---|
+|---|---|---|---|
 | 01 | [Introduction to Machine Learning](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/01-intro) | [Homework 1](01-intro/homework_1.ipynb) | [Problem 1] (https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/main/cohorts/2026/homework/01-intro/homework.md)
 | 02 | [Machine Learning for Regression](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/02-regression) | [Homework 2](02-regression/homework_2.ipynb) |
 | 03 | [Machine Learning for Classification](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/03-classification) | [Homework 3](03-classification/homework_3.ipynb) |
